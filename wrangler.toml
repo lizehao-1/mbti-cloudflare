@@ -1,0 +1,6 @@
+name = "mbti-test"
+compatibility_date = "2024-01-01"
+pages_build_output_dir = "dist"
+
+# 环境变量在 Cloudflare Dashboard 中设置
+# ZY_PID, ZY_PRIVATE_KEY, ZY_PUBLIC_KEY, ZY_PRICE
