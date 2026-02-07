@@ -125,7 +125,6 @@ export default function Test() {
                   selected
                     ? 'border-slate-950 bg-slate-950 text-white shadow-[0_16px_35px_rgba(2,6,23,0.25)]'
                     : 'border-slate-200 bg-white/60 hover:bg-white hover:border-slate-300',
-                  isTransitioning ? 'opacity-60 cursor-not-allowed' : '',
                 ].join(' ')}
               >
                 <div className="flex items-center justify-between gap-3">
